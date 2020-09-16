@@ -1,2 +1,2 @@
 git pull
-print ("hellow world ")
+os.system("print hellow world" )
